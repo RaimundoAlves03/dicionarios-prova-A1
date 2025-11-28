@@ -19,7 +19,7 @@ while True:
     if materia in professor: 
         break
     else:
-        print('Não foi possivel consultar essa UF tente novamente...')
+        print('Não foi possivel consultar essa materia tente novamente...')
 
 
 print (f'O professor da materia e: {diciplinas[materia]}')
