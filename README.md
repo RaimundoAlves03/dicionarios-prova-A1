@@ -49,15 +49,13 @@ INÍCIO
         SE materia_desejada PERTENCE a professor ENTÃO
             SAIR DO REPETIR
         SENÃO
-            IMPRIMIR "Não foi possível consultar essa UF, tente novamente..."
+            IMPRIMIR "Não foi possível consultar essa materia, tente novamente..."
         FIM SE
     FIM REPETIR
 
     IMPRIMIR "O professor da matéria e: " + diciplinas[materia_desejada]
     FIM
     
-2.2. Fluxograma (Representação Visual)
-
 🚀 Como Executar o Projeto
 
 Requisito: É necessário ter o Python 3 instalado no seu sistema.
