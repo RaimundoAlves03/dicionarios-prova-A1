@@ -1,0 +1,1 @@
+# dicionarios-prova-A1
